@@ -12,7 +12,7 @@ body {
 
 header {
     background: #111;
-    border-bottom: 2px solid #fff;
+    border-bottom: 2px solid white;
     padding: 20px;
 }
 
@@ -57,7 +57,7 @@ nav a.active {
 
 .hero {
     text-align: center;
-    padding: 120px 20px;
+    padding: 80px 20px;
 }
 
 .hero h1 {
