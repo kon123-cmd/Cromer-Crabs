@@ -74,13 +74,11 @@ nav a:hover {
 .card {
     background: #1a1a1a;
     border-radius: 12px;
-    overflow: hidden;
     transition: 0.3s;
     border: 2px solid transparent;
 }
 
 .card:hover {
-    transform: translateY(-5px);
     border-color: #00ffcc;
 }
 
@@ -103,7 +101,6 @@ button {
     border: none;
     padding: 10px 20px;
     margin-top: 10px;
-    cursor: pointer;
     font-weight: bold;
     border-radius: 6px;
 }
