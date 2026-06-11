@@ -170,6 +170,10 @@ video {
 .extra-info.show {
     display: block;
 }
+.player-link {
+    text-decoration: none;
+    color: inherit;
+}
 
 footer {
     text-align: center;
