@@ -137,8 +137,8 @@ button:hover {
     margin: auto;
 }
 
-.contact-form input,
-.contact-form textarea {
+.Mailing-List input,
+.Mailing-List textarea {
     width: 100%;
     padding: 12px;
     margin-bottom: 15px;
@@ -148,8 +148,8 @@ button:hover {
     border-radius: 6px;
 }
 
-.contact-form input:focus,
-.contact-form textarea:focus {
+.Mailing-List input:focus,
+.Mailing-List textarea:focus {
     outline: none;
     border-color: white;
 }
